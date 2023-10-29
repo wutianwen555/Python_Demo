@@ -1,6 +1,6 @@
 """
-10行代码集2000张美女图，Python爬虫120例，再上征途
-https://dream.blog.csdn.net/article/details/117024328
+    10行代码集2000张美女图，Python爬虫120例，再上征途
+    https://dream.blog.csdn.net/article/details/117024328
 """
 import requests
 import re

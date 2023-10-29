@@ -1,6 +1,6 @@
 """
-通过Python爬虫，发现60%女装大佬游走在cosplay领域
-https://dream.blog.csdn.net/article/details/117221667
+    通过Python爬虫，发现60%女装大佬游走在cosplay领域
+    https://dream.blog.csdn.net/article/details/117221667
 """
 import requests
 import time
